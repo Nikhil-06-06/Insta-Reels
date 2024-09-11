@@ -4,12 +4,13 @@ import 'firebase/compat/storage'
 import 'firebase/compat/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAFwDCRAAI65PtZv_p7L_sQnnzZHjLRuuE",
-    authDomain: "reels-ea583.firebaseapp.com",
-    projectId: "reels-ea583",
-    storageBucket: "reels-ea583.appspot.com",
-    messagingSenderId: "1037229030618",
-    appId: "1:1037229030618:web:6e496cbeba793ca27639e3"
+  apiKey: "AIzaSyCGMt8vUE6-RMeKFKwrRvQ8j6To4JqhyMQ",
+  authDomain: "reelify-7a429.firebaseapp.com",
+  projectId: "reelify-7a429",
+  storageBucket: "reelify-7a429.appspot.com",
+  messagingSenderId: "632413269432",
+  appId: "1:632413269432:web:98b769fa5ab1f34e54b34d",
+  measurementId: "G-693L082CJR"
 };
 
 // Initialize Firebase
